@@ -10,7 +10,7 @@
 - 🎯 一名热爱编程的开发者，同时也是一位在校大学生  
 - 💻 专注于 **Java / Spring Boot / 后端开发**   
 - 🧩 偶尔也会写点前端，尝试一些新奇的项目  
- 
+
 
 ---
 
@@ -45,15 +45,6 @@
 
 ### 📂 我的项目
 
-| 项目名 | 简介 | 技术栈 |
-| :----- | :--- | :----- |
-
-
-
-### 📈 GitHub 数据
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cjcainiao&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjcainiao&layout=compact&theme=tokyonight" />
-</p>
-
+|        项目名        |                           简介                            |          技术栈           |                   仓库地址                   |
+| :------------------: | :-------------------------------------------------------: | :-----------------------: | :------------------------------------------: |
+| 在线判题系统（后端） | 一个可以在线评测代码、获取输出结果、支持acm题型、力扣题型 | Springboot、Docker、shell | https://github.com/cjcainiao/CodeRankBackend |
